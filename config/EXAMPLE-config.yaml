@@ -7,7 +7,7 @@ app:
   monitor_to_use: 1
   captcha: false
   speed: "fast"
-  authenticate: false
+  authenticate: true
   multi_account:
     enable: false
     window_title: "bombcrypto"
